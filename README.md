@@ -1,2 +1,1 @@
-# a32bitmint.github.io
-website thingy
+# a32bitmint's Github page
