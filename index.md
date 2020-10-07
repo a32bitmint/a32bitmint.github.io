@@ -1,7 +1,7 @@
 ## Hi
-I'm a32bitmint
-When I'm not doing drawing stuff over on my [Twitter](https://www.twitter.com/a32bitmint) or other things, I tinker around with stuff.
-I mostly tinker with `Wii Homebrew stuff`.
+I'm a32bitmint. 
+When I'm not doing drawing stuff over on my [Twitter](https://www.twitter.com/a32bitmint) or other things, I tinker around with stuff. 
+I mostly tinker with `Wii Homebrew stuff`. 
 
 ignore the below, still learning github markdown and i wanna keep it there for reference
 
